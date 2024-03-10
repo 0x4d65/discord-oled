@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Kode+Mono:wght@400..700&display=swap');
+
+.messageContent__21e69, 
+.username_d30d99,
+.username_d272d6,
+.name__8d1ec,
+.name_c08dbc,
+.slateTextArea__0661c {
+    font-family: 'Chakra Petch';
+    font-weight: 500;
+    font-size: 18px;
+}
+.membersGroup__85843, .title__10613, .default_cae228, .activityText__47ec1 {
+    font-family: 'Chakra Petch';
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.username_d30d99 {
+    font-weight: 600;
+}
+
+code {
+    font-family: 'Kode Mono' !important;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+}
+
+.form__13a2c::before{
+    display: none;
+}
+
+
+.chatContent__5dca8, 
+.themed_b152d4, 
+.container_b2ce9c, 
+.customTheme_db4d28, 
+.themedBackground__6b1b6,
+.member_aa4760,
+.scroller__3d071,
+.container_ca50b9,
+.header__104ca {
+    background-color: black !important;
+}
+
+.expandedFolderBackground__1bec6 {
+    background-color: #ffffff25;
+}
+
+.children__32014::after {
+    visibility: hidden;
+}
+
+.item_f9d377, .tutorialContainer__890ea .childWrapper__01b9c, .unread__48cf4{
+    background-color: #f704ff;
+}
+
+.tutorialContainer__890ea .childWrapper__01b9c svg{
+    color: black;
+
+}
