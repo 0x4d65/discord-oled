@@ -5,12 +5,19 @@
 .username_d272d6,
 .name__8d1ec,
 .name_c08dbc,
-.slateTextArea__0661c {
+.slateTextArea__0661c,
+.themed_b957e8, 
+.text-md-medium__5151a{
     font-family: 'Chakra Petch';
     font-weight: 500;
     font-size: 18px;
 }
-.membersGroup__85843, .title__10613, .default_cae228, .activityText__47ec1 {
+
+.membersGroup__85843, 
+.title__10613, 
+.default_cae228, 
+.activityText__47ec1,
+.text-sm-normal_e612c7{
     font-family: 'Chakra Petch';
     font-size: 14px;
     font-weight: 500;
@@ -26,7 +33,7 @@ code {
     font-weight: 500 !important;
 }
 
-.form__13a2c::before{
+.form__13a2c::before, .premiumFeatureBorder__9bbb3{
     display: none;
 }
 
@@ -39,7 +46,20 @@ code {
 .member_aa4760,
 .scroller__3d071,
 .container_ca50b9,
-.header__104ca {
+.header__104ca,
+.fade_ba0fa0, 
+.searchBar_e4ea2a, 
+.fade__8a426, 
+.scrollerBase__2b744, 
+.accountProfileCard__22589, 
+.header__6d5ea, 
+.rootWithShadow__073a7, 
+.footer__89240,
+.background_b61fcc, 
+.fieldList_aab0de, 
+.preview_f42b5d, 
+.previewMessage__1075c, 
+.radioBar__40e1b{
     background-color: black !important;
 }
 
