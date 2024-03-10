@@ -7,12 +7,12 @@
 .name_c08dbc,
 .slateTextArea__0661c,
 .themed_b957e8, 
-.text-md-medium__5151a{
+.text-md-medium__5151a, 
+.heading-md-semibold__574c7 {
     font-family: 'Chakra Petch';
     font-weight: 500;
     font-size: 18px;
 }
-
 .membersGroup__85843, 
 .title__10613, 
 .default_cae228, 
@@ -23,7 +23,7 @@
     font-weight: 500;
 }
 
-.username_d30d99 {
+.username_d30d99, .heading-md-semibold__574c7 {
     font-weight: 600;
 }
 
