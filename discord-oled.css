@@ -72,7 +72,7 @@ code {
 }
 
 .item_f9d377, .tutorialContainer__890ea .childWrapper__01b9c, .unread__48cf4{
-    background-color: #f704ff;
+    background-color: #f704ff !important;
 }
 
 .tutorialContainer__890ea .childWrapper__01b9c svg{
